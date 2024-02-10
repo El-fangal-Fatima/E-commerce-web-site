@@ -1,0 +1,13 @@
+.Common__Section{
+    background: linear-gradient(rgba(0,0,0,0.562) ,rgba(0,0,0,0.562)) ,url('../assets/images/phone-01.jpg') 
+    no-repeat center center;
+    background-size: cover;
+  padding: 100px 0 px;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Common__Section h1{
+    color: #fff;
+    font-weight: 600;
+}
